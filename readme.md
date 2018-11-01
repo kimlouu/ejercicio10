@@ -1,5 +1,7 @@
 # Ejercicio 10 - Maquetación
 
+https://kimlouu.github.io/ejercicio10/
+
 ## Maquetado Artículo Barbershop
 
 ### Requerimientos generales:
@@ -55,7 +57,7 @@
     - Navbar, footer, author-name: #121619
     - Icons-background icons p article-nav: #323333
     - Date, article-nav-background: #707070
-    - p:a: #d56c6a
+    - p a #d56c6a
       h1, background-color, nav-bar-nav, interaction-icons: White
 - Imágenes:
     - Están todas
